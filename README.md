@@ -1,0 +1,1 @@
+# AI Augmented Python Script that generated visualization chart for financial performance of SiriusXM.  GenAI read data from PDF paste and gave script in a few seconds.  Nice!  Data Transformation, Data Processing, Data Visualization all in a few secnods.
